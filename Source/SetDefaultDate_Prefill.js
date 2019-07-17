@@ -1,3 +1,4 @@
+// This JS should be added in the Javascript Section in Form Settings
 
 // After the Form loads and prefill the fields
 function FF_OnAfterRender(){
